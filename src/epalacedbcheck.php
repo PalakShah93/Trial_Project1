@@ -1,6 +1,6 @@
 <?php
 //function connectivitycheck()
-
+ 
 $username = "root";
 $password = "root";
 $hostname = "localhost";  
